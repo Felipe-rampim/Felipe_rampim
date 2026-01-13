@@ -2,7 +2,9 @@
 
 
 -🎓 Atualmente sou estudante de **Bacharelado em Engenharia de Software**  
--💻 Interesse em desenvolvimento de software e fundamentos de programação  
+
+-💻 Desenvolvedor Back-End 
+
 -🚀 Sempre buscando aprendizado contínuo e evolução profissional  
 
 
