@@ -3,19 +3,20 @@
 
 -🎓 Atualmente sou estudante de **Bacharelado em Engenharia de Software**  
 
--💻 Desenvolvedor Back-End 
+-💻 Desenvolvedor Back-End | Disponível para vagas de emprego
 
--🚀 Sempre buscando aprendizado contínuo e evolução profissional  
+-✉️ E-mail pessoal: 
+Felipe_alves_rampim@hotmail.com  
 
 
 
 ### 
 
 <div align="center">
-  <img height="180em"
+  <img height="170em"
     src="https://github-readme-stats.vercel.app/api?username=felipe-rampim&show_icons=true&theme=tokyonight&hide_border=true"
   />
-  <img height="180em"
+  <img height="170em"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-rampim&layout=compact&theme=tokyonight&hide_border=true"
   />
 </div>
