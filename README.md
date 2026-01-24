@@ -1,7 +1,7 @@
 ## Felipe-Rampim <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 
 - 🎓 Atualmente sou estudante de **Bacharelado em Engenharia de Software**
--  💻 Desenvolvedor Back-End | Disponível para vagas de emprego
+- 💻 Desenvolvedor Back-End | Disponível para vagas de emprego
 - ✉️ E-mail pessoal: Felipe_alves_rampim@hotmail.com   
 
 ### 
@@ -11,7 +11,7 @@
     src="https://github-readme-stats.vercel.app/api?username=felipe-rampim&show_icons=true&theme=tokyonight&hide_border=true" 
   />
   <img height="170em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-rampim&layout=compact&theme=tokyonight&hide_border=true&langs_count=4" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-rampim&theme=tokyonight&hide_border=true&langs_count=4&hide=typescript,javascript&layout=normal" 
   />
 </div>
 
@@ -48,6 +48,4 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
-</picture>>
-
-
+</picture>
