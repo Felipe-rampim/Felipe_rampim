@@ -7,10 +7,10 @@
 ### 
 
 <div align="center">
-  <img height="170em" 
+  <img height="150em" 
     src="https://github-readme-stats.vercel.app/api?username=felipe-rampim&show_icons=true&theme=tokyonight&hide_border=true" 
   />
-  <img height="170em" 
+  <img height="150em" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-rampim&theme=tokyonight&hide_border=true&langs_count=4&hide=typescript,javascript&layout=normal" 
   />
 </div>
